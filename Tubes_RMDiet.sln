@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tubes_RMDiet", "Tubes_RMDiet.vbproj", "{9D22AF98-DE28-40D1-8426-AF91890CF4B0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Rumah Makan Diet", "..\Rumah Makan Diet\Rumah Makan Diet.vdproj", "{6303A94C-C248-4B52-ACD3-3311BF4D07E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D22AF98-DE28-40D1-8426-AF91890CF4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D22AF98-DE28-40D1-8426-AF91890CF4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D22AF98-DE28-40D1-8426-AF91890CF4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D22AF98-DE28-40D1-8426-AF91890CF4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6303A94C-C248-4B52-ACD3-3311BF4D07E4}.Debug|Any CPU.ActiveCfg = Debug
+		{6303A94C-C248-4B52-ACD3-3311BF4D07E4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07D0B71F-6B7A-489C-B569-B6E73B021007}
+	EndGlobalSection
+EndGlobal
